@@ -2,7 +2,7 @@ Sýnidæmi um hvernig hægt er að hafa fleiri en eitt pull request template
 
 ## Leiðbeiningar
 
-í .github foldernum
+í **.github** foldernum
 
 1. Bættu við skránni pull_request_template.md með eftirfarandi leiðbeiningum 
 
